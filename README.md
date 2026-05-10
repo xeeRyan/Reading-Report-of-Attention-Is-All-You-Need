@@ -6,7 +6,7 @@
 
 ## 📖 关于报告
 
-本报告对 Google Brain 2017年论文《Attention Is All You Need》进行深度解读，从 RNN/CNN 困境到 Transformer 架构设计，从 BLEU 分值到 ChatGPT 时代，完整呈现一次 AI 范式转移的过程。
+本报告是个人对 Google Brain 2017年论文《Attention Is All You Need》进行深度解读，从 RNN/CNN 困境到 Transformer 架构设计，从 BLEU 分值到 ChatGPT 时代，完整呈现一次 AI 范式转移的过程。
 
 
 
